@@ -8,3 +8,4 @@ public class Client {
         creator2.buildCar();
     }
 }
+//Esta classe é o programa principal. Ela cria objetos CriadorCarro (Fiat e Volks neste caso) e usa o método buildCar() deles para criar e potencialmente personalizar diferentes tipos de carro.

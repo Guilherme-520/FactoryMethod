@@ -1,3 +1,4 @@
+    //Car: Essa classe funciona como um modelo para diferentes tipos de carro. Ela armazena informações como modelo, fábrica e categoria, e fornece métodos para acessá-las e modificá-las.
     public class Car {
 
         private String model;
